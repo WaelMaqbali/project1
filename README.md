@@ -1,3 +1,3 @@
-# project1
+# project
 
 this is a sample project
